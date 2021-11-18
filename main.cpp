@@ -1,9 +1,10 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Je fais des tests pour apprendre le C++ !" << endl;
+    cout << "\"" << endl;
+    cout << "\\" << endl;
     return 0;
 }
